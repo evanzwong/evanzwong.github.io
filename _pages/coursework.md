@@ -6,7 +6,7 @@ author_profile: true
 extra_head: |
   <style>
     /* shrink everything on this page only */
-    html { font-size: 14px; }
+    html { font-size: 10px; }
   </style>
 ---
 ## Current
