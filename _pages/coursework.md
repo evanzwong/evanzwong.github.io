@@ -4,14 +4,34 @@ permalink: /coursework/
 layout: single
 author_profile: true
 ---
+## Current
+- **EECS 151:** Introduction to Digital Design and Integrated Circuits  
+- **EECS 151LA:** Application Specific Integrated Circuits Laboratory  
+- **EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes  
+- **UGBA 135:** Personal Financial Management  
 
-## Course Categories
+## EE(CS)
+- **EECS 16A & 16B:** Foundations of Signals, Dynamical Systems, and Information Processing
+- **EECS 16B:** Introduction to Circuits and Devices 
+- **EE 144:** Fundamental Algorithms for Systems Modeling, Analysis, and Optimization  
+- **EE 105:** Microelectronic Devices and Circuits  
 
-- **Computer Science**
-- **Electrical Engineering** 
-- **Mathematics**
-- **Physics**
+## Computing
+- **CS 61A:** Structure and Interpretation of Computer Programs  
+- **CS 61B:** Data Structures  
+- **CS 61C:** Great Ideas in Computer Architecture (Machine Structures)  
+- **CS 70:** Discrete Mathematics and Probability Theory  
+- **CS 152:** Computer Architecture and Engineering  
 
----
+## Miscellaneous
+- **Theater R1B:** Performance: Writing and Research  
+- **Philos 3:** The Nature of Mind  
+- **Physics 7A:** Physics for Scientists and Engineers (Mechanics) 
+- **Physics 7B:** Physics for Scientists and Engineers (Electricity and Magnetism) 
+- **CE 11:** Engineering Systems and Sustainability  
+- **Math 53:** Multivariable Calculus  
+- **Math 54:** Linear Algebra and Differential Equations  
+- **IAS 157AC:** Engineering, Environment, and Society  
+- **CS 195:** Social Implications of Computer Technology  
 
-*This page is under construction. Check back soon for updates!* 
+> **Note:** Course numbers **200+** are graduate-level.
