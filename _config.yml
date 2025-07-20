@@ -69,7 +69,7 @@ author:
   bio:    "Electrical Engineering & Computer Sciences @ UC Berkeley"
   links:
     - label: "Bay Area"
-      icon: "fa-solid fa-location-dot""
+      icon: "fa-solid fa-location-dot"
     - label: "ezw[AT]berkeley[DOT]edu"
       icon: "fa-solid fa-envelope"
     - label: "GitHub"
