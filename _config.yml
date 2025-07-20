@@ -60,23 +60,22 @@ plugins:
 author:
   name   : "Evan Wong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi, I'm Evan. I'm a third-year undergraduate Electrical Engineering & Computer Sciences at UC Berkeley, primarily interested in VLSI design, verification, and formal verification."
+  bio    : "Electrical Engineering & Computer Sciences @ UC Berkeley"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/evanzwong"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/evanzwong/"
+
+footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/evanzwong"
-
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/evanzwong/"
 
 defaults:
   # _posts
