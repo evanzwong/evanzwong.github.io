@@ -65,7 +65,7 @@ author:
     - label: "GitHub"
       icon:  "fab fa-fw fa-github"
       url:   "https://github.com/evanzwong"
-    - label: "LinkedIn"
+    - label: " LinkedIn"
       icon:  "fa-brands fa-linkedin"
       url:   "https://www.linkedin.com/in/evanzwong/"
 
@@ -98,10 +98,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
