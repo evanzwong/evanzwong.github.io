@@ -5,34 +5,7 @@ layout: single
 author_profile: true
 ---
 
-Welcome to my projects section! Here you'll find a collection of my personal and academic projects.
-
-## Featured Projects
-
-*More content coming soon...*
-
-## Project Categories
-
-### Software Development
-- Web Applications
-- Mobile Apps
-- APIs & Backend Systems
-
-### Hardware & Electronics
-- Circuit Design
-- Embedded Systems
-- IoT Projects
-
-### Data Science & ML
-- Machine Learning Models
-- Data Analysis
-- Computer Vision
-
-### Academic Projects
-- Course Projects
-- Research Work
-- Capstone Projects
-
----
-
 *This page is under construction. Check back soon for updates!* 
+
+## Formal Specification of Branch Prediction Using CTL
+Formulated process to apply Computation Tree Logic to model branch prediction in simple ISAs (this project used RV32I). Wrote RISC-V assembly tests to train custom branch predictors to mispredict into harmful architectural states. Interfaced custom configurations and tests with Spike simulator and emitted files for JasperGold formal checking.
