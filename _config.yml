@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Evan Wong"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/head.JPG"
   bio    : "Electrical Engineering & Computer Sciences @ UC Berkeley"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
