@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /
+title: "About "
 ---
 
 Hi! I'm Evan, a 3rd-year undergraduate at the University of California, Berkeley based in the Bay Area studying Electrical Engineering & Computer Sciences (EECS) interested in VLSI design, verification, formal verification, and validation of integrated circuits and/or systems=on-chip.
