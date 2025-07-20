@@ -32,7 +32,7 @@ extra_head: |
 - **Theater R1B:** Performance: Writing and Research  
 - **Philos 3:** The Nature of Mind  
 - **Physics 7A:** Physics for Scientists and Engineers (Mechanics) 
-- **Physics 7B:** Physics for Scientists and Engineers (Electricity and Magnetism) 
+- **Physics 7B:** Physics for Scientists and Engineers (Electricity and Magnetism)  
 - **CE 11:** Engineering Systems and Sustainability  
 - **Math 53:** Multivariable Calculus  
 - **Math 54:** Linear Algebra and Differential Equations  
