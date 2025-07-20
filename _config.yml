@@ -22,6 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: evanzwong
 minimal_mistakes_skin: dark 
 og_image: /assets/images/site-logo.png
+atom_feed: 
+  hide: true
 search: true
 
 # Build settings
@@ -66,6 +68,10 @@ author:
   avatar: "/assets/images/head.JPG"
   bio:    "Electrical Engineering & Computer Sciences @ UC Berkeley"
   links:
+    - label: "Bay Area"
+      icon: "fa-solid fa-location-dot""
+    - label: "ezw[AT]berkeley[DOT]edu"
+      icon: "fa-solid fa-envelope"
     - label: "GitHub"
       icon:  "fab fa-fw fa-github"
       url:   "https://github.com/evanzwong"
