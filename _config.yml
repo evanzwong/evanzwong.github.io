@@ -39,6 +39,10 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
+exclude:
+  - _pages/category-archive.md
+  - _pages/tag-archive.md
+  - _pages/year-archive.md
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock
