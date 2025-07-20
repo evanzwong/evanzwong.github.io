@@ -39,4 +39,4 @@ extra_head: |
 - **IAS 157AC:** Engineering, Environment, and Society  
 - **CS 195:** Social Implications of Computer Technology  
 
-> **Note:** Course numbers **200+** are graduate-level.
+> **Note:** Course numbers 100-199 are upper division and 200+ are graduate-level.
