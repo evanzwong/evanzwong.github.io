@@ -3,18 +3,23 @@ title: "Coursework"
 permalink: /coursework/
 layout: single
 author_profile: true
+extra_head: |
+  <style>
+    /* shrink everything on this page only */
+    html { font-size: 14px; }
+  </style>
 ---
 ## Current
+- **EE 105:** Microelectronic Devices and Circuits  
 - **EECS 151:** Introduction to Digital Design and Integrated Circuits  
 - **EECS 151LA:** Application Specific Integrated Circuits Laboratory  
 - **EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes  
 - **UGBA 135:** Personal Financial Management  
 
 ## EE(CS)
-- **EECS 16A & 16B:** Foundations of Signals, Dynamical Systems, and Information Processing
+- **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing
 - **EECS 16B:** Introduction to Circuits and Devices 
 - **EE 144:** Fundamental Algorithms for Systems Modeling, Analysis, and Optimization  
-- **EE 105:** Microelectronic Devices and Circuits  
 
 ## Computing
 - **CS 61A:** Structure and Interpretation of Computer Programs  
