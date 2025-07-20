@@ -82,6 +82,10 @@ author:
 
 footer:
   links:
+    - label: "Bay Area"
+      icon: "fa-solid fa-location-dot"
+    - label: "ezw[AT]berkeley[DOT]edu"
+      icon: "fa-solid fa-envelope"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/evanzwong"
