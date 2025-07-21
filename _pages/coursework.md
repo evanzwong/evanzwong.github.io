@@ -3,35 +3,31 @@ title: "Coursework"
 permalink: /coursework/
 layout: single
 author_profile: true
-extra_head: |
-  <style>
-    /* 1) Shrink the *root* font-size, so all rem-based text scales down */
-    html {
-      font-size: 0.8rem !important;
-    }
-
-    /* 2) Tighten up the gap under your H1 title */
-    .page-title {
-      margin-bottom: 0.3em !important;
-    }
-
-    /* 3) Reduce the space *above* your H2 headings (like “Current”) */
-    article.page__body h2 {
-      margin-top: 0.4em !important;
-      margin-bottom: 0.2em !important;
-      font-size: 1.1em !important;
-    }
-
-    /* 4) Tweak your list spacing */
-    article.page__body ul {
-      margin-top: 0.3em !important;
-      margin-bottom: 0.5em !important;
-    }
-    article.page__body li {
-      margin-bottom: 0.2em !important;
-    }
-  </style>
 ---
+
+<!-- inline page-scoped CSS -->
+<style>
+  /* scale down everything on this page */
+  :root { font-size: 0.8rem !important; }
+
+  /* tighten H1→H2 gap */
+  article.page__body h1.page-title { margin-bottom: 0.3em !important; }
+
+  /* tighten above/below H2 (your “Current”, etc.) */
+  article.page__body h2 {
+    margin-top:    0.4em !important;
+    margin-bottom: 0.2em !important;
+    font-size:     1.1em !important;
+  }
+
+  /* list spacing */
+  article.page__body ul {
+    margin: 0.3em 0 !important;
+  }
+  article.page__body li {
+    margin-bottom: 0.2em !important;
+  }
+</style>
 
 ## Current
 - **EE 105:** Microelectronic Devices and Circuits  
