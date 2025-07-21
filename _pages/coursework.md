@@ -7,8 +7,6 @@ author_profile: true
 
 <!-- inline page-scoped CSS -->
 <style>
-  /* scale down everything on this page */
-  :root { font-size: 0.5rem !important; }
 
   /* tighten H1→H2 gap */
   article.page__body h1.page-title { margin-bottom: 0.3em !important; }
