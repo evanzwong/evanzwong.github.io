@@ -67,34 +67,31 @@ author:
   name:   "Evan Wong"
   avatar: "/assets/images/head.JPG"
   bio:    "Electrical Engineering & Computer Sciences @ UC Berkeley"
-  location: "Bay Area"
+  location: "Bay Area"         # ← only once
   links:
-    - label: "Bay Area"
-      icon: "fa-solid fa-location-dot"
-      url:   "#" 
     - label: "ezw [at] berkeley [dot] edu"
-      icon:  "fa-solid fa-envelope"
+      icon:  "fas fa-fw fa-envelope"               # ← use "fas" (solid) + fa-fw
       url:   "mailto:ezw@berkeley.edu"
     - label: "GitHub"
       icon:  "fab fa-fw fa-github"
       url:   "https://github.com/evanzwong"
     - label: "LinkedIn"
-      icon:  "fa-brands fa-linkedin"
+      icon:  "fab fa-fw fa-linkedin"               # ← brand icon + fa-fw
       url:   "https://www.linkedin.com/in/evanzwong/"
 
 footer:
   links:
-    - label: "Bay Area"
-      icon: "fa-solid fa-location-dot"
-      url:   "#"
+    - label: "Bay Area"       # ← matches your single location
+      icon:  "fas fa-fw fa-location-dot"
+      url:   "#"              # or a map URL
     - label: "ezw [at] berkeley [dot] edu"
-      icon:  "fa-solid fa-envelope"
+      icon:  "fas fa-fw fa-envelope"
       url:   "mailto:ezw@berkeley.edu"
     - label: "GitHub"
       icon:  "fab fa-fw fa-github"
       url:   "https://github.com/evanzwong"
     - label: "LinkedIn"
-      icon:  "fa-brands fa-linkedin"
+      icon:  "fab fa-fw fa-linkedin"
       url:   "https://www.linkedin.com/in/evanzwong/"
 
 defaults:
