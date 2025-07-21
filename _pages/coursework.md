@@ -5,30 +5,30 @@ layout: single
 author_profile: true
 extra_head: |
   <style>
-    /* Make everything smaller on this page */
-    body {
-      font-size: 0.8em !important;
+    /* 1) Shrink the *root* font-size, so all rem-based text scales down */
+    html {
+      font-size: 0.8rem !important;
     }
-    /* Reduce spacing between title and content */
-    .page__title {
+
+    /* 2) Tighten up the gap under your H1 title */
+    .page-title {
       margin-bottom: 0.3em !important;
     }
-    /* Reduce spacing between headings */
-    .page__content h2 {
-      margin-top: 0.8em !important;
-      margin-bottom: 0.3em !important;
+
+    /* 3) Reduce the space *above* your H2 headings (like “Current”) */
+    article.page__body h2 {
+      margin-top: 0.4em !important;
+      margin-bottom: 0.2em !important;
       font-size: 1.1em !important;
     }
-    /* Reduce spacing between list items */
-    .page__content ul {
+
+    /* 4) Tweak your list spacing */
+    article.page__body ul {
       margin-top: 0.3em !important;
+      margin-bottom: 0.5em !important;
     }
-    .page__content li {
-      margin-bottom: 0.1em !important;
-    }
-    /* Make the page content smaller */
-    .page__content {
-      font-size: 0.85em !important;
+    article.page__body li {
+      margin-bottom: 0.2em !important;
     }
   </style>
 ---
@@ -41,8 +41,8 @@ extra_head: |
 - **UGBA 135:** Personal Financial Management  
 
 ## EE(CS)
-- **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing
-- **EECS 16B:** Introduction to Circuits and Devices 
+- **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing  
+- **EECS 16B:** Introduction to Circuits and Devices  
 - **EE 144:** Fundamental Algorithms for Systems Modeling, Analysis, and Optimization  
 
 ## Computing
@@ -55,7 +55,7 @@ extra_head: |
 ## Miscellaneous
 - **Theater R1B:** Performance: Writing and Research  
 - **Philos 3:** The Nature of Mind  
-- **Physics 7A:** Physics for Scientists and Engineers (Mechanics) 
+- **Physics 7A:** Physics for Scientists and Engineers (Mechanics)  
 - **Physics 7B:** Physics for Scientists and Engineers (Electricity and Magnetism)  
 - **CE 11:** Engineering Systems and Sustainability  
 - **Math 53:** Multivariable Calculus  
@@ -63,4 +63,4 @@ extra_head: |
 - **IAS 157AC:** Engineering, Environment, and Society  
 - **CS 195:** Social Implications of Computer Technology  
 
-> **Note:** Course numbers 100-199 are upper division and 200+ are graduate-level.
+> **Note:** Course numbers 100–199 are upper division and 200+ are graduate-level.
