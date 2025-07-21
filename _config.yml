@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: evanzwong
 minimal_mistakes_skin: dark 
 og_image: /assets/images/site-logo.png
+favicon: /assets/images/favicon.ico
 atom_feed: 
   hide: true
 search: true
