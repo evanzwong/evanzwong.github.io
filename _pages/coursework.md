@@ -9,7 +9,7 @@ author_profile: true
 <style>
 
   /* tighten H1→H2 gap */
-  article.page__body h1.page-title { margin-bottom: 0.3em !important; }
+  article.page__body h1.page-title { margin-bottom: 0.1em !important; }
 
   /* tighten above/below H2 (your “Current”, etc.) */
   article.page__body h2 {
