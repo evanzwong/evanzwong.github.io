@@ -5,10 +5,29 @@ layout: single
 author_profile: true
 extra_head: |
   <style>
-    /* shrink everything on this page only */
-    html { font-size: 85%; }
+    /* Reduce overall font size */
+    .page__content {
+      font-size: 0.85em;
+    }
+    /* Reduce spacing between title and content */
+    .page__title {
+      margin-bottom: 0.5em;
+    }
+    /* Reduce spacing between headings */
+    .page__content h2 {
+      margin-top: 1em;
+      margin-bottom: 0.5em;
+    }
+    /* Reduce spacing between list items */
+    .page__content ul {
+      margin-top: 0.5em;
+    }
+    .page__content li {
+      margin-bottom: 0.2em;
+    }
   </style>
 ---
+
 ## Current
 - **EE 105:** Microelectronic Devices and Circuits  
 - **EECS 151:** Introduction to Digital Design and Integrated Circuits  
