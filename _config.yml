@@ -67,31 +67,35 @@ author:
   name:   "Evan Wong"
   avatar: "/assets/images/head.JPG"
   bio:    "Electrical Engineering & Computer Sciences @ UC Berkeley"
+  location: "Bay Area"
   links:
     - label: "Bay Area"
-      icon: "fas fa-map-marker-alt"
-    - label: "ezw[AT]berkeley[DOT]edu"
-      icon: "fas fa-envelope"
+      icon: "fa-solid fa-location-dot"
+      url:   "#" 
+    - label: "ezw [at] berkeley [dot] edu"
+      icon:  "fa-solid fa-envelope"
+      url:   "mailto:ezw@berkeley.edu"
     - label: "GitHub"
       icon:  "fab fa-fw fa-github"
       url:   "https://github.com/evanzwong"
-    - label: " LinkedIn"
+    - label: "LinkedIn"
       icon:  "fa-brands fa-linkedin"
       url:   "https://www.linkedin.com/in/evanzwong/"
-
 
 footer:
   links:
     - label: "Bay Area"
-      icon: "fas fa-map-marker-alt"
-    - label: "ezw[AT]berkeley[DOT]edu"
-      icon: "fas fa-envelope"
+      icon: "fa-solid fa-location-dot"
+      url:   "#"
+    - label: "ezw [at] berkeley [dot] edu"
+      icon:  "fa-solid fa-envelope"
+      url:   "mailto:ezw@berkeley.edu"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/evanzwong"
+      icon:  "fab fa-fw fa-github"
+      url:   "https://github.com/evanzwong"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/evanzwong/"
+      icon:  "fa-brands fa-linkedin"
+      url:   "https://www.linkedin.com/in/evanzwong/"
 
 defaults:
   # _posts
