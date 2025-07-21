@@ -5,25 +5,30 @@ layout: single
 author_profile: true
 extra_head: |
   <style>
-    /* Reduce overall font size */
-    .page__content {
-      font-size: 0.85em;
+    /* Make everything smaller on this page */
+    body {
+      font-size: 0.8em !important;
     }
     /* Reduce spacing between title and content */
     .page__title {
-      margin-bottom: 0.5em;
+      margin-bottom: 0.3em !important;
     }
     /* Reduce spacing between headings */
     .page__content h2 {
-      margin-top: 1em;
-      margin-bottom: 0.5em;
+      margin-top: 0.8em !important;
+      margin-bottom: 0.3em !important;
+      font-size: 1.1em !important;
     }
     /* Reduce spacing between list items */
     .page__content ul {
-      margin-top: 0.5em;
+      margin-top: 0.3em !important;
     }
     .page__content li {
-      margin-bottom: 0.2em;
+      margin-bottom: 0.1em !important;
+    }
+    /* Make the page content smaller */
+    .page__content {
+      font-size: 0.85em !important;
     }
   </style>
 ---
