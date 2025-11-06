@@ -37,7 +37,7 @@ author_profile: true
 ## EE(CS)
 - **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing  
 - **EECS 16B:** Introduction to Circuits and Devices  
-- **EE 144:** Fundamental Algorithms for Systems Modeling, Analysis, and Optimization  
+- **EE 144:** Fundamental Algorithms for Systems Modeling, Analysis, and Optimization (now EECS 144: Introduction to Design Automation)
 
 ## Computing
 - **CS 61A:** Structure and Interpretation of Computer Programs  
