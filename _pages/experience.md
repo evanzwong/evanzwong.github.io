@@ -58,6 +58,29 @@ and reducing company licensing expenses by enabling open-source flows. Created a
   </div>
 </div>
 
+<div class="experience-entry">
+  <h2>Engineering Student Council</h2>
+  <div class="role-date">
+    <strong>Co-President</strong> | <em>May 2025 - Present</em>
+  </div>
+  <div class="description">
+    <p>
+	Elected Co-President representing the College of Engineering student body at UC Berkeley. Oversees the Blue & Gold program, a program to certify student organizations as equitable and open-entry to students. Spread access to opportunities and provided a voice to the student body through events like Research Week and the Grimes Engineering Center Town Hall. Spearheaded general de-stressing events such as Engineers Week.
+    </p>
+  </div>
+</div>
+
+<div class="experience-entry">
+  <h2>Cal Esports</h2>
+  <div class="role-date">
+    <strong>Competitive Coordinator</strong> | <em>May 2024 - Present</em>
+  </div>
+  <div class="description">
+    <p>
+	Organizes and gauges semesterly Cal Esports League of Legends team tryouts and forms Division 1 and 2 team lineups including support staff. Acts as Cal Esports and League of Legends department liaison, advocating for student policy changes in Esports teams. Successfully lobbied for reduced Esports center rates for student Esport athletes and off-hour Cal Esports Community Center access.
+    </p>
+  </div>
+</div>
 
 <!-- Example entry (remove this when you add your real entries) -->
 <!--
