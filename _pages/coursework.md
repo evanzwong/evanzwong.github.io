@@ -28,16 +28,19 @@ author_profile: true
 </style>
 
 ## Current
-- **EE 105:** Microelectronic Devices and Circuits  
-- **EECS 151:** Introduction to Digital Design and Integrated Circuits  
-- **EECS 151LA:** Application Specific Integrated Circuits Laboratory  
-- **EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes  
-- **UGBA 135:** Personal Financial Management  
+- **EE 194/290-7:** IC Design Project: 16nm SoC for IoT
+- **EECS 219C:** Formal Methods: Specification, Verification, and Synthesis
+- **ASTRON C12:** The Planets
+- **EPS C20:** Earthquakes in Your Backyard 
 
 ## EE(CS)
 - **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing  
 - **EECS 16B:** Introduction to Circuits and Devices  
+- **EE 105:** Microelectronic Devices and Circuits  
 - **EE 144:** Fundamental Algorithms for Systems Modeling, Analysis, and Optimization (now EECS 144: Introduction to Design Automation)
+- **EECS 151:** Introduction to Digital Design and Integrated Circuits  
+- **EECS 151LA:** Application Specific Integrated Circuits Laboratory  
+- **EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes  
 
 ## Computing
 - **CS 61A:** Structure and Interpretation of Computer Programs  
@@ -54,6 +57,7 @@ author_profile: true
 - **CE 11:** Engineering Systems and Sustainability  
 - **Math 53:** Multivariable Calculus  
 - **Math 54:** Linear Algebra and Differential Equations  
+- **UGBA 135:** Personal Financial Management  
 - **IAS 157AC:** Engineering, Environment, and Society  
 - **CS 195:** Social Implications of Computer Technology  
 
