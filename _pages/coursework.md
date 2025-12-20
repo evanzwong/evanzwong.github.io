@@ -1,58 +1,29 @@
 ---
 title: "Coursework"
 permalink: /coursework/
-layout: page
-author_profile: false
+layout: single
+author_profile: true
 ---
 
+<!-- inline page-scoped CSS -->
 <style>
-/* =========================
-   Coursework page sizing
-   Minimal Mistakes (remote) + dark skin
-   ========================= */
+  /* tighten H1→H2 gap */
+  article.page__body h1.page-title { margin-bottom: 0.1em !important; }
 
-/* Make the content column feel like Steven's page */
-.layout--page .page__inner-wrap {
-  max-width: 900px;
-}
-
-/* On very wide screens, allow a bit more width */
-@media (min-width: 1280px) {
-  .layout--page .page__inner-wrap {
-    max-width: 980px;
+  /* tighten above/below H2 (your “Current”, etc.) */
+  article.page__body h2 {
+    margin-top:    0.4em !important;
+    margin-bottom: 0.2em !important;
+    font-size:     1.1em !important;
   }
-}
 
-/* Title spacing */
-.layout--page article.page__content h1.page-title {
-  margin-bottom: 0.6em;
-}
-
-/* Section headers (use theme’s default sizing; just adjust spacing) */
-.layout--page article.page__content h2 {
-  margin-top: 1.25em;
-  margin-bottom: 0.45em;
-}
-
-/* Lists: match readable density */
-.layout--page article.page__content ul {
-  margin: 0.55em 0 0.9em 1.2em;
-}
-
-.layout--page article.page__content li {
-  margin-bottom: 0.35em;
-}
-
-/* Body typography (dark skin benefits from a touch more line-height) */
-.layout--page article.page__content {
-  font-size: 1em;
-  line-height: 1.65;
-}
-
-/* Optional: slightly soften the note block spacing in dark mode */
-.layout--page article.page__content blockquote {
-  margin-top: 1.0em;
-}
+  /* list spacing */
+  article.page__body ul {
+    margin: 0.3em 0 !important;
+  }
+  article.page__body li {
+    margin-bottom: 0.2em !important;
+  }
 </style>
 
 ## Current
@@ -90,4 +61,3 @@ author_profile: false
 - **CS 195:** Social Implications of Computer Technology
 
 > **Note:** Course numbers 100–199 are upper division and 200+ are graduate-level.
-
