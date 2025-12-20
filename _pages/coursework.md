@@ -32,20 +32,21 @@ author_profile: true
   }
 
   /* underline section headers */
-  article.page__body .section-header {
-    text-decoration: underline;
+  article.page__body .section-header,
+  article.page__body .section-header strong {
+    text-decoration: underline !important;
     margin-bottom: 0.3em !important;
     display: block;
   }
 </style>
 
-<span class="section-header">**Current:**</span>  
+<span class="section-header"><strong>Current:</strong></span>  
 **EE 194/290-7:** IC Design Project: 16nm SoC for IoT (Tapeout)  
 **EECS 219C:** Formal Methods: Specification, Verification, and Synthesis  
 **ASTRON C12:** The Planets  
 **EPS C20:** Earthquakes in Your Backyard
 
-<span class="section-header">**EE(CS):**</span>  
+<span class="section-header"><strong>EE(CS):</strong></span>  
 **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing  
 **EECS 16B:** Introduction to Circuits and Devices  
 **EE 105:** Microelectronic Devices and Circuits  
@@ -54,14 +55,14 @@ author_profile: true
 **EECS 151LA:** Application Specific Integrated Circuits Laboratory  
 **EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes (Bringup)
 
-<span class="section-header">**Computing:**</span>  
+<span class="section-header"><strong>Computing:</strong></span>  
 **CS 61A:** Structure and Interpretation of Computer Programs  
 **CS 61B:** Data Structures  
 **CS 61C:** Great Ideas in Computer Architecture (Machine Structures)  
 **CS 70:** Discrete Mathematics and Probability Theory  
 **CS 152:** Computer Architecture and Engineering
 
-<span class="section-header">**Miscellaneous:**</span>  
+<span class="section-header"><strong>Miscellaneous:</strong></span>  
 **Theater R1B:** Performance: Writing and Research  
 **Philos 3:** The Nature of Mind  
 **Physics 7A:** Physics for Scientists and Engineers (Mechanics)  
