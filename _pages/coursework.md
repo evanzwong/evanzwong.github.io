@@ -33,12 +33,14 @@ author_profile: true
 </style>
 
 **Current:**  
+<hr style="margin: 0.3em 0 0.5em 0; border: none; border-top: 1px solid #ddd;">
 **EE 194/290-7:** IC Design Project: 16nm SoC for IoT (Tapeout)  
 **EECS 219C:** Formal Methods: Specification, Verification, and Synthesis  
 **ASTRON C12:** The Planets  
 **EPS C20:** Earthquakes in Your Backyard
 
 **EE(CS):**  
+<hr style="margin: 0.3em 0 0.5em 0; border: none; border-top: 1px solid #ddd;">
 **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing  
 **EECS 16B:** Introduction to Circuits and Devices  
 **EE 105:** Microelectronic Devices and Circuits  
@@ -48,6 +50,7 @@ author_profile: true
 **EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes (Bringup)
 
 **Computing:**  
+<hr style="margin: 0.3em 0 0.5em 0; border: none; border-top: 1px solid #ddd;">
 **CS 61A:** Structure and Interpretation of Computer Programs  
 **CS 61B:** Data Structures  
 **CS 61C:** Great Ideas in Computer Architecture (Machine Structures)  
@@ -55,6 +58,7 @@ author_profile: true
 **CS 152:** Computer Architecture and Engineering
 
 **Miscellaneous:**  
+<hr style="margin: 0.3em 0 0.5em 0; border: none; border-top: 1px solid #ddd;">
 **Theater R1B:** Performance: Writing and Research  
 **Philos 3:** The Nature of Mind  
 **Physics 7A:** Physics for Scientists and Engineers (Mechanics)  
