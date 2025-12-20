@@ -30,17 +30,22 @@ author_profile: true
     margin: 0.8em 0 !important;
     font-size: 0.9em !important;
   }
+
+  /* underline section headers */
+  article.page__body .section-header {
+    text-decoration: underline;
+    margin-bottom: 0.3em !important;
+    display: block;
+  }
 </style>
 
-**Current:**  
-<hr style="margin: 0.3em 0 0.5em 0; border: none; border-top: 1px solid #ddd;">
+<span class="section-header">**Current:**</span>  
 **EE 194/290-7:** IC Design Project: 16nm SoC for IoT (Tapeout)  
 **EECS 219C:** Formal Methods: Specification, Verification, and Synthesis  
 **ASTRON C12:** The Planets  
 **EPS C20:** Earthquakes in Your Backyard
 
-**EE(CS):**  
-<hr style="margin: 0.3em 0 0.5em 0; border: none; border-top: 1px solid #ddd;">
+<span class="section-header">**EE(CS):**</span>  
 **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing  
 **EECS 16B:** Introduction to Circuits and Devices  
 **EE 105:** Microelectronic Devices and Circuits  
@@ -49,16 +54,14 @@ author_profile: true
 **EECS 151LA:** Application Specific Integrated Circuits Laboratory  
 **EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes (Bringup)
 
-**Computing:**  
-<hr style="margin: 0.3em 0 0.5em 0; border: none; border-top: 1px solid #ddd;">
+<span class="section-header">**Computing:**</span>  
 **CS 61A:** Structure and Interpretation of Computer Programs  
 **CS 61B:** Data Structures  
 **CS 61C:** Great Ideas in Computer Architecture (Machine Structures)  
 **CS 70:** Discrete Mathematics and Probability Theory  
 **CS 152:** Computer Architecture and Engineering
 
-**Miscellaneous:**  
-<hr style="margin: 0.3em 0 0.5em 0; border: none; border-top: 1px solid #ddd;">
+<span class="section-header">**Miscellaneous:**</span>  
 **Theater R1B:** Performance: Writing and Research  
 **Philos 3:** The Nature of Mind  
 **Physics 7A:** Physics for Scientists and Engineers (Mechanics)  
@@ -70,4 +73,4 @@ author_profile: true
 **IAS 157AC:** Engineering, Environment, and Society  
 **CS 195:** Social Implications of Computer Technology
 
-> **Note:** Course numbers 100–199 are upper division and 200+ are graduate-level.
+>**Note:** Course numbers 100–199 are upper division and 200+ are graduate-level.
