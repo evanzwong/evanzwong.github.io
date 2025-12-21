@@ -28,33 +28,10 @@ author_profile: true
   article.page__body .experience-entry .description {
     margin-top: 0.5em !important;
   }
-
-  /* section headers */
-  article.page__body .experience-section {
-    margin-top: 2.5em !important;
-    margin-bottom: 1.5em !important;
-  }
-
-  article.page__body .experience-section:first-of-type {
-    margin-top: 1em !important;
-  }
-
-  article.page__body .experience-section h2 {
-    font-size: 1.5em !important;
-    margin-bottom: 0.5em !important;
-    margin-top: 0 !important;
-    color: #333;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 0.3em;
-  }
 </style>
 
 <!-- Experience Entry Template -->
 <!-- Copy the div below and fill in your details for each position -->
-
-<div class="experience-section">
-  <h2>Professional Experience</h2>
-</div>
 
 <div class="experience-entry">
   <h2>Berkeley Wireless Research Center</h2>
@@ -79,10 +56,6 @@ author_profile: true
 and reducing company licensing expenses by enabling open-source flows. Created a SpinalHDL framework for blackboxing and integrating external Verilog peripherals/IP. Interconnected RISC-V SoC using TileLink-UL bus protocol with modular plugins and peripherals. Designed and verified 5+ custom example peripherals (e.g., interrupt timers) in SpinalHDL/Verilog/SystemVerilog.
     </p>
   </div>
-</div>
-
-<div class="experience-section">
-  <h2>Other Organization Involvement:</h2>
 </div>
 
 <div class="experience-entry">
