@@ -41,7 +41,7 @@ author_profile: true
 </style>
 
 <span class="section-header"><strong>Current:</strong></span>  
-**EE 194/290-7:** IC Design Project: 16nm SoC for IoT (Tapeout)  
+**EE 194/290-7:** IC Design Project: 16nm SoC for Digital & AI (Tapeout)  
 **EECS 219C:** Formal Methods: Specification, Verification, and Synthesis  
 **ASTRON C12:** The Planets  
 **EPS C20:** Earthquakes in Your Backyard
