@@ -34,13 +34,25 @@ author_profile: true
 <!-- Copy the div below and fill in your details for each position -->
 
 <div class="experience-entry">
+  <h2>Apple</h2>
+  <div class="role-date">
+    <strong>Pixel IP Design Intern</strong> | <em>May 2026 - August 2026</em>
+  </div>
+  <div class="description">
+    <p>
+      Incoming Summer 2026 RTL role in the Apple Silicon Engineering Group on the Pixel Team in Cupertino, CA.
+    </p>
+  </div>
+</div>
+
+<div class="experience-entry">
   <h2>Berkeley Wireless Research Center</h2>
   <div class="role-date">
     <strong>Undergraduate Research Assistant</strong> | <em>September 2025 - Present</em>
   </div>
   <div class="description">
     <p>
-      Designing SAT accelerator microarchitecture for formal applications in C++ advised by Prof. Pierluigi Nuzzo. Helping translate software SAT solving algorithms to hardware as SoC accelerators involving different memory structures and architectures.
+      Designing a TSMC 65nm SAT accelerator in Verilog focused on optimizing Boolean Constraint Propagation (BCP), advised by Prof. Pierluigi Nuzzo. Optimizing BCP using custom SRAM and CAM structures to parallelize literal evaluation across clauses up to 4-SAT. Architected a coprocessor integrating hardware-BCP, beating SOTA solvers in benchmarks under 175 variables by 37x.
     </p>
   </div>
 </div>
@@ -61,11 +73,11 @@ and reducing company licensing expenses by enabling open-source flows. Created a
 <div class="experience-entry">
   <h2>Engineering Student Council</h2>
   <div class="role-date">
-    <strong>Co-President</strong> | <em>May 2025 - Present</em>
+    <strong>President</strong> | <em>May 2025 - May 2026</em>
   </div>
   <div class="description">
     <p>
-	Elected Co-President representing the College of Engineering student body at UC Berkeley. Oversees the Blue & Gold program, a program to certify student organizations as equitable and open-entry to students. Spread access to opportunities and provided a voice to the student body through events like Research Week and the Grimes Engineering Center Town Hall. Spearheaded general de-stressing events such as Engineers Week.
+      Elected representative of 4,200+ engineering students to ensure diversity, equity, and inclusion within the college. Spearheaded events including Research Week, Engineers Week, and Town Halls involving 2,000+ students and faculty. Distributed $100k+ to support inclusive activities and events within 50+ engineering undergraduate organizations.
     </p>
   </div>
 </div>
