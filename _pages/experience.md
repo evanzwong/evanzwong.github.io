@@ -52,7 +52,7 @@ author_profile: true
   </div>
   <div class="description">
     <p>
-      Designing a TSMC 65nm SAT accelerator in Verilog focused on optimizing Boolean Constraint Propagation (BCP), advised by Prof. Pierluigi Nuzzo. Optimizing BCP using custom SRAM and CAM structures to parallelize literal evaluation across clauses up to 4-SAT. Architected a coprocessor integrating hardware-BCP, beating SOTA solvers in benchmarks under 175 variables by 37x.
+      Designing a TSMC 65nm SAT accelerator in Verilog focused on optimizing Boolean Constraint Propagation (BCP), advised by Prof. Pierluigi Nuzzo. Optimizing BCP using custom SRAM and CAM structures to parallelize literal evaluation across clauses up to 4-SAT. Architected a coprocessor integrating hardware-BCP with a simple CDCL solving algorithm in C++, beating SOTA solvers in benchmarks under 175 variables by 37x.
     </p>
   </div>
 </div>
@@ -71,13 +71,13 @@ and reducing company licensing expenses by enabling open-source flows. Created a
 </div>
 
 <div class="experience-entry">
-  <h2>Engineering Student Council</h2>
+  <h2>Engineering Student Council (ESC)</h2>
   <div class="role-date">
     <strong>President</strong> | <em>May 2025 - May 2026</em>
   </div>
   <div class="description">
     <p>
-      Elected representative of 4,200+ engineering students to ensure diversity, equity, and inclusion within the college. Spearheaded events including Research Week, Engineers Week, and Town Halls involving 2,000+ students and faculty. Distributed $100k+ to support inclusive activities and events within 50+ engineering undergraduate organizations.
+        Elected representative of 4,200+ engineering students to ensure diversity, equity, and inclusion within the college. College of Engineering peaker at Golden Bear Orientation (new student orientation), Cal Day (admitted student day), and The (Not So) Secret Guide to Being a Berkeley Engineer podcast. Spearheaded external events including Research Week, Engineers Week, and Town Halls involving 2,000+ students and faculty as well as internal events to build community within the ESC. Distributed $100k+ to support inclusive activities and events within 50+ engineering undergraduate organizations as part of the Blue & Gold Program. Previously Internal Vice President and now serving as Senior Advisor.
     </p>
   </div>
 </div>
@@ -89,7 +89,7 @@ and reducing company licensing expenses by enabling open-source flows. Created a
   </div>
   <div class="description">
     <p>
-	Organizes and gauges semesterly Cal Esports League of Legends team tryouts and forms Division 1 and 2 team lineups including support staff. Acts as Cal Esports and League of Legends department liaison, advocating for student policy changes in Esports teams. Successfully lobbied for reduced Esports center rates for student Esport athletes and off-hour Cal Esports Community Center access.
+	Organizes and gauges semesterly Cal Esports League of Legends team tryouts and forms Division 1 and 2 team lineups including support staff. Acts as Cal Esports and League of Legends department liaison, advocating for student policy changes in Esports teams. Successfully lobbied for reduced Esports center rates for student Esport athletes and off-hour Cal Esports Community Center access. Previously Coach for Division 2 Blue team, coaching team to CLoL Open Division National bracket.
     </p>
   </div>
 </div>
