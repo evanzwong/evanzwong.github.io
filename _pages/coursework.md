@@ -53,7 +53,7 @@ author_profile: true
 **EE 144:** Fundamental Algorithms for Systems Modeling, Analysis, and Optimization (now EECS 144: Introduction to Design Automation)  
 **EECS 151:** Introduction to Digital Design and Integrated Circuits  
 **EECS 151LA:** Application Specific Integrated Circuits Laboratory  
-**EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes (Bringup)
+**EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes (Bringup)  
 **EE 194/290-7:** IC Design Project: 16nm SoC for Digital & AI (Tapeout)  
 **EECS 219C:** Formal Methods: Specification, Verification, and Synthesis  
 
