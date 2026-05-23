@@ -25,7 +25,7 @@ author_profile: true
 
 <div class="project-entry">
   <h2>Vector Processing Unit (VPU)</h2>
-  <div class="project-meta"><em>Chisel, Scala, Hammer</em> &nbsp;·&nbsp; 2026</div>
+  <div class="project-meta"><em>Chisel, Scala, Hammer</em> &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; <a href="https://github.com/evanzwong">Private GitLab</a></div>
   <div class="description">
     <p>Designed a 16-lane VPU to be taped-out on an NPU for VLA robotics workloads in TSMC 16C from RTL to signoff, targeting 500 MHz. Implemented floating-point operations used in the π₀ model from a custom ISA to form neural network passes in Chisel. Integrated into SoC with a control sequencer to issue vectors and memory handshakes, enabling VLIW-style utilization. Optimized VPU for PPA with dual-vector instruction issuing, unpipelining, and shared LUTs for linear interpolation. Final metrics were 500 MHz (0 ps slack) frequency with 125,062.441 µm² area.</p>
   </div>

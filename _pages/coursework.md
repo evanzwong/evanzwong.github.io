@@ -41,10 +41,10 @@ author_profile: true
 </style>
 
 <span class="section-header"><strong>Current:</strong></span>  
-**EE 194/290-7:** IC Design Project: 16nm SoC for Digital & AI (Tapeout)  
-**EECS 219C:** Formal Methods: Specification, Verification, and Synthesis  
-**ASTRON C12:** The Planets  
-**EPS C20:** Earthquakes in Your Backyard
+**CS 162:** Operating Systems and System Programming
+**CS 189:** Introduction to Machine Learning  
+**PBHLTH 101:** A Sustainable World: Challenges and Opportunities
+**EECS 144 [Course Staff]:** Introduction to Design Automation
 
 <span class="section-header"><strong>EE(CS):</strong></span>  
 **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing  
@@ -54,6 +54,8 @@ author_profile: true
 **EECS 151:** Introduction to Digital Design and Integrated Circuits  
 **EECS 151LA:** Application Specific Integrated Circuits Laboratory  
 **EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes (Bringup)
+**EE 194/290-7:** IC Design Project: 16nm SoC for Digital & AI (Tapeout)  
+**EECS 219C:** Formal Methods: Specification, Verification, and Synthesis  
 
 <span class="section-header"><strong>Computing:</strong></span>  
 **CS 61A:** Structure and Interpretation of Computer Programs  
@@ -63,15 +65,17 @@ author_profile: true
 **CS 152:** Computer Architecture and Engineering
 
 <span class="section-header"><strong>Miscellaneous:</strong></span>  
-**Theater R1B:** Performance: Writing and Research  
-**Philos 3:** The Nature of Mind  
-**Physics 7A:** Physics for Scientists and Engineers (Mechanics)  
-**Physics 7B:** Physics for Scientists and Engineers (Electricity and Magnetism)  
-**CE 11:** Engineering Systems and Sustainability  
-**Math 53:** Multivariable Calculus  
-**Math 54:** Linear Algebra and Differential Equations  
-**UGBA 135:** Personal Financial Management  
-**IAS 157AC:** Engineering, Environment, and Society  
+**ASTRON C12:** The Planets  
+**CIVENG 11:** Engineering Systems and Sustainability  
 **CS 195:** Social Implications of Computer Technology
+**EPS C20:** Earthquakes in Your Backyard
+**IAS 157AC:** Engineering, Environment, and Society  
+**MATH 53:** Multivariable Calculus  
+**MATH 54:** Linear Algebra and Differential Equations  
+**PHILOS 3:** The Nature of Mind  
+**PHYSICS 7A:** Physics for Scientists and Engineers (Mechanics)  
+**PHYSICS 7B:** Physics for Scientists and Engineers (Electricity and Magnetism)  
+**THEATER R1B:** Performance: Writing and Research  
+**UGBA 135:** Personal Financial Management  
 
 >**Note:** Course numbers 100–199 are upper division and 200+ are graduate-level.
