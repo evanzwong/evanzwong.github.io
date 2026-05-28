@@ -43,6 +43,7 @@ author_profile: true
 <span class="section-header"><strong>Current:</strong></span>  
 **CS 162:** Operating Systems and System Programming  
 **CS 189:** Introduction to Machine Learning  
+**EECS 144 [Course Staff]:** Introduction to Design Automation   
 **PBHLTH 101:** A Sustainable World: Challenges and Opportunities  
 
 <span class="section-header"><strong>EE(CS):</strong></span>  
