@@ -58,7 +58,7 @@ author_profile: true
 </div>
 
 <div class="experience-entry">
-  <h2>CrossBar Inc.</h2>
+  <h2>CrossBar</h2>
   <div class="role-date">
     <strong>ASIC Engineering Intern</strong> | <em>May 2025 - August 2025</em>
   </div>
