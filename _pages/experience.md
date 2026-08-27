@@ -36,11 +36,11 @@ author_profile: true
 <div class="experience-entry">
   <h2>Apple</h2>
   <div class="role-date">
-    <strong>Pixel IP Design Intern</strong> | <em>May 2026 - August 2026</em>
+    <strong>SoC IP Design Intern</strong> | <em>May 2026 - August 2026</em>
   </div>
   <div class="description">
     <p>
-      Incoming Summer 2026 RTL role in the Apple Silicon Engineering Group on the Pixel Team in Cupertino, CA.
+      Developed block from RTL to synthesis for a pixel accelerator, delivering lint-clean and synthesizable SystemVerilog on the Pixel IP Design team. Designed microarchitecture for datapath with convolutions, data buffering, and pixel upsampling while optimizing for target PPA. Identified critical path optimization and devised solution for future work.
     </p>
   </div>
 </div>
@@ -52,7 +52,19 @@ author_profile: true
   </div>
   <div class="description">
     <p>
-      Designing a TSMC 65nm SAT accelerator in Verilog focused on optimizing Boolean Constraint Propagation (BCP), advised by Prof. Pierluigi Nuzzo. Optimizing BCP using custom SRAM and CAM structures to parallelize literal evaluation across clauses up to 4-SAT. Architected a coprocessor integrating hardware-BCP with a simple CDCL solving algorithm in C++, beating SOTA solvers in benchmarks under 175 variables by 37x.
+      Designing a TSMC 65nm SAT accelerator in Verilog focused on optimizing Boolean Constraint Propagation (BCP), advised by Prof. Pierluigi Nuzzo. Awarded EECS Undergraduate Research Award for excellence in this research project. Optimizing BCP using custom SRAM and CAM structures to parallelize literal evaluation across clauses up to 4-SAT. Architected a coprocessor integrating hardware-BCP with a simple CDCL solving algorithm in C++, beating SOTA solvers in benchmarks under 175 variables by 37x.
+    </p>
+  </div>
+</div>
+
+<div class="experience-entry">
+  <h2>EECS 144/244: Introduction to Design Automation</h2>
+  <div class="role-date">
+    <strong>Course Staff (UCS1)</strong> | <em>August 2026 - Present</em>
+  </div>
+  <div class="description">
+    <p>
+      Support the course's coverage of the full digital design automation flow, from Boolean logic optimization through physical implementation. Validate SystemVerilog labs spanning SVA-based assertions, UVM testbenches, and simulation-based verification, and evaluate student implementations of formal verification techniques including BDD- and SAT-based equivalence checking, linear temporal logic (LTL) specification, and bounded model checking. Provide assistance during office hours for a class of 20+ undergraduate and graduate students.
     </p>
   </div>
 </div>
