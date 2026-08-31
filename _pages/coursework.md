@@ -43,15 +43,15 @@ author_profile: true
 <span class="section-header"><strong>Current:</strong></span>  
 **CS 162:** Operating Systems and System Programming  
 **CS 189:** Introduction to Machine Learning  
-**CS 375:** Teaching Techniques for Computer Science 
-**PBHLTH 101:** A Sustainable World: Challenges and Opportunities 
-**EECS 144 [Course Staff]:** Introduction to Design Automation 
+**CS 375:** Teaching Techniques for Computer Science  
+**PBHLTH 101:** A Sustainable World: Challenges and Opportunities  
+**EECS 144 [Course Staff]:** Introduction to Design Automation  
 
 <span class="section-header"><strong>EE(CS):</strong></span>  
 **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing  
 **EECS 16B:** Introduction to Circuits and Devices  
 **EE 105:** Microelectronic Devices and Circuits  
-**EE 144:** Fundamental Algorithms for Systems Modeling, Analysis, and Optimization (now EECS 144: Introduction to Design Automation)  
+**EE 144:** Fundamental Algorithms for Systems Modeling, Analysis, and Optimization  
 **EECS 151:** Introduction to Digital Design and Integrated Circuits  
 **EECS 151LA:** Application Specific Integrated Circuits Laboratory  
 **EE 194/290-6:** Test Integrated Circuit Chips Designed in Previous Tapeout Classes (Bringup)  
