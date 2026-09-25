@@ -45,7 +45,7 @@ author_profile: true
 **CS 189:** Introduction to Machine Learning  
 **CS 375:** Teaching Techniques for Computer Science  
 **PBHLTH 101:** A Sustainable World: Challenges and Opportunities  
-**EECS 144 [Course Staff]:** Introduction to Design Automation  
+**EECS 144/244 [Course Staff]:** Introduction to Design Automation  
 
 <span class="section-header"><strong>EE(CS):</strong></span>  
 **EECS 16A:** Foundations of Signals, Dynamical Systems, and Information Processing  
@@ -78,5 +78,11 @@ author_profile: true
 **PHYSICS 7B:** Physics for Scientists and Engineers (Electricity and Magnetism)  
 **THEATER R1B:** Performance: Writing and Research  
 **UGBA 135:** Personal Financial Management  
+
+<span class="section-header"><strong>Future Interests:</strong></span>  
+**EE 143:** Microfabrication Technology  
+**EECS 251B:** Advanced Digital Integrated Circuits and Systems   
+**EECS 249A:** Introduction to Embedded Systems  
+**EECS 249B:** Cyber Physical System Design Principles and Applications  
 
 >**Note:** Course numbers 100–199 are upper division and 200+ are graduate-level.
