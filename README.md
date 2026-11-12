@@ -1,27 +1,41 @@
-# Minimal Mistakes remote theme starter
+# evanzwong.github.io
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Personal site. Plain HTML, CSS, and a little JavaScript. There is no build step
+and nothing to install.
 
-Contains basic configuration to get you a site with:
+| File | What it is |
+| --- | --- |
+| `index.html` | All of the content, one section per block (About, Background, Experience, Projects, Coursework, Contact) |
+| `styles.css` | All styling. Colors are the variables at the top of the file |
+| `script.js` | Mobile menu, coursework filter, nav highlighting |
+| `assets/images/` | Profile photo and favicon |
+| `about/`, `experience/`, `projects/`, `coursework/`, `blog/` | Redirects so links to the old multi-page site still work |
+| `404.html` | Shown by GitHub Pages for unknown URLs |
+| `.nojekyll` | Tells GitHub Pages to serve the files as they are, without running Jekyll |
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Preview locally
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+From this folder:
 
----
+```sh
+python -m http.server 4000
+```
 
-## Troubleshooting
+Then open <http://localhost:4000>. Edit a file, save, and refresh the browser.
+Press `Ctrl+C` in the terminal to stop the server.
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+To check it on a phone, connect the phone to the same Wi-Fi, run `ipconfig` to
+find this computer's IPv4 address, and open `http://<that address>:4000`.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Publish
+
+GitHub Pages serves whatever is on the `master` branch. Work on another branch
+(for example `redesign`) and nothing changes on the live site until that branch
+is merged into `master` and pushed.
+
+## Editing content
+
+- **New experience entry:** copy a `<div class="timeline-item">` block in `index.html`.
+- **New project:** copy an `<article class="project-card">` block.
+- **New course:** add an `<li>` to the right `course-list`. The counts update themselves.
+- **Profile photo:** replace `assets/images/profile.jpg` (square, about 900 px wide).
