@@ -306,16 +306,16 @@ button.section-tail {
 .news-list { border-top: 1px solid var(--rule); }
 .news-item {
   display: grid;
-  grid-template-columns: 7.2rem minmax(0, 1fr);
+  grid-template-columns: 8.4rem minmax(0, 1fr);
   gap: 1.25rem;
   padding-block: 1rem;
   border-bottom: 1px solid var(--line);
   font-size: .95rem;
 }
 .news-item .label {
-  padding-top: .2rem;
+  padding-top: .1rem;
   color: var(--teal-soft);
-  font-size: .74rem;
+  font-size: .9rem;
   letter-spacing: .05em;
 }
 .news-item p { max-width: 52rem; color: var(--ink-soft); }
@@ -351,7 +351,7 @@ button.section-tail {
 }
 .timeline-date {
   color: var(--teal-soft);
-  font: 650 .76rem / 1.5 var(--mono);
+  font: 650 .88rem / 1.5 var(--mono);
   font-variant-numeric: tabular-nums;
 }
 .timeline-item h4 { margin-block: .2rem .05rem; font-size: 1.02rem; font-weight: 670; }
@@ -365,7 +365,7 @@ button.section-tail {
   gap: .45rem;
   padding-block: .2rem;
   color: var(--teal-soft);
-  font: 700 .7rem / 1.4 var(--mono);
+  font: 700 .8rem / 1.4 var(--mono);
   letter-spacing: .07em;
   text-transform: uppercase;
   list-style: none;
@@ -479,17 +479,15 @@ button.section-tail {
   border-radius: 2rem;
   background: transparent;
   color: var(--ink);
-  font-size: .77rem;
+  font-size: .86rem;
   font-weight: 600;
   cursor: pointer;
 }
 .filter-chip:hover { background: var(--teal-tint); }
 .filter-chip.is-active { border-color: var(--ink); background: var(--ink); color: var(--bg-deep); }
-.filter-chip span { margin-left: .2rem; opacity: .7; }
 
 .course-group { margin-bottom: 1.1rem; }
-.course-group .subheading { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; padding-bottom: .5rem; }
-.course-group .subheading small { color: var(--muted); font: 650 .72rem / 1 var(--mono); }
+.course-group .subheading { padding-bottom: .5rem; }
 .course-list {
   columns: 2;
   column-gap: clamp(1.5rem, 5vw, 3.5rem);
@@ -498,15 +496,15 @@ button.section-tail {
 }
 .course-list li {
   display: grid;
-  grid-template-columns: 7.4rem minmax(0, 1fr);
+  grid-template-columns: 8.6rem minmax(0, 1fr);
   gap: .9rem;
-  padding-block: .5rem;
+  padding-block: .55rem;
   border-top: 1px solid var(--line);
-  font-size: .9rem;
+  font-size: 1rem;
   line-height: 1.45;
   break-inside: avoid;
 }
-.course-code { padding-top: .12rem; color: var(--teal-soft); font-size: .72rem; letter-spacing: .03em; }
+.course-code { padding-top: .08rem; color: var(--teal-soft); font-size: .9rem; letter-spacing: .02em; }
 .badge {
   display: inline-block;
   margin-left: .35rem;
@@ -514,7 +512,7 @@ button.section-tail {
   border-radius: 1rem;
   background: var(--teal);
   color: var(--bg-deep);
-  font-size: .68rem;
+  font-size: .76rem;
   font-weight: 700;
   vertical-align: .08em;
   white-space: nowrap;
@@ -525,7 +523,7 @@ button.section-tail {
   border-left: 2px solid var(--teal);
   background: var(--surface);
   color: var(--ink-soft);
-  font-size: .86rem;
+  font-size: .95rem;
 }
 
 /* ---------- beyond work / blog strips ---------- */
@@ -660,7 +658,8 @@ button.section-tail {
   .project-card.featured .tags { margin-bottom: .2rem; }
   .project-card.featured .inline-action { margin-bottom: .9rem; padding-top: .6rem; }
   .course-list { columns: 1; }
-  .course-list li { grid-template-columns: 6.6rem minmax(0, 1fr); gap: .7rem; }
+  .course-list li { grid-template-columns: 7.1rem minmax(0, 1fr); gap: .7rem; }
+  .course-code { font-size: .84rem; }
   .teaser { display: grid; grid-template-columns: 3rem minmax(0, 1fr); align-items: start; gap: .6rem .9rem; }
   .teaser-pill { grid-column: 2; justify-self: start; }
   .contact-bar { flex-direction: column; align-items: start; padding: .9rem 1rem; }

@@ -37,5 +37,5 @@ is merged into `master` and pushed.
 
 - **New experience entry:** copy a `<div class="timeline-item">` block in `index.html`.
 - **New project:** copy an `<article class="project-card">` block.
-- **New course:** add an `<li>` to the right `course-list`. The counts update themselves.
+- **New course:** add an `<li>` to the right `course-list`.
 - **Profile photo:** replace `assets/images/profile.jpg` (square, about 900 px wide).

@@ -24,14 +24,6 @@ if (menuToggle && nav) {
 const chips = Array.from(document.querySelectorAll(".filter-chip"));
 const groups = Array.from(document.querySelectorAll(".course-group"));
 
-// Fill in the per-group and total course counts so they never go stale.
-groups.forEach((group) => {
-  const counter = group.querySelector("[data-count]");
-  if (counter) counter.textContent = String(group.querySelectorAll("li").length);
-});
-const total = document.querySelector("[data-count-all]");
-if (total) total.textContent = String(document.querySelectorAll(".course-list li").length);
-
 chips.forEach((chip) => {
   chip.addEventListener("click", () => {
     const wanted = chip.dataset.filter;
